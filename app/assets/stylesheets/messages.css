@@ -31,7 +31,8 @@
   text-decoration: none;
 }
 
-.side-bar-create{
+
+.side-bar-create a{
   font-size: 10px;
   color: deepskyblue;
   padding: 14px;
@@ -52,10 +53,11 @@
   padding: 20px 0 40px;
 }
 
-.side-roo-name{
+.side-room-name a{
   text-decoration: none;
   color: white;
 }
+
 
 
 
