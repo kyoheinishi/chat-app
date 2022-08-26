@@ -25,7 +25,7 @@
   align-items: center;
 }
 
-.side-header-name{
+.side-header-name a{
   font-size: 16px;
   color: #fafafa;
   text-decoration: none;
