@@ -89,6 +89,7 @@
   border: 1px solid darkred;
   color: darkred;
   padding: 20px;
+  text-decoration: none;
 }
 
 /* mainチャット */
@@ -127,12 +128,11 @@
 
 
 /* form main */
-.main-chat-form{
+.form{
   height: 90px;
   background-color: #dddddd;
   padding: 20px 40px;
   display: flex;
-
 }
 
 .form-input{
@@ -167,6 +167,7 @@
   margin: 5px 10px;
   text-align: center;
 }
+
 
 .hidden {
   display: none;
